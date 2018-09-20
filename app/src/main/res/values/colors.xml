@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="divider">#c8c7cc</color>
+
+    <color name="colorItemBack">#FFFBF3</color>
+    <!--语文-->
+    <color name="colorMenuItem_chinese_ebook">#E95652</color>
+    <color name="colorMenuItem_chinese_video">#F07859</color>
+    <color name="colorMenuItem_chinese_exercise">#FC8A81</color>
+    <color name="colorMenuItem_chinese_experimentation">#FFB697</color>
+    <!--数学-->
+    <color name="colorMenuItem_math_ebook">#22B1B9</color>
+    <color name="colorMenuItem_math_video">#18D5D5</color>
+    <color name="colorMenuItem_math_exercise">#3BECDE</color>
+    <!--英文-->
+    <color name="colorMenuItem_english_ebook">#FF6600</color>
+    <color name="colorMenuItem_english_video">#FF9903</color>
+    <color name="colorMenuItem_english_exercise">#FFBD33</color>
+    <color name="colorMenuItem_english_experimentation">#FFD666</color>
+    <!--物理-->
+    <color name="colorMenuItem_physics_ebook">#3399FF</color>
+    <color name="colorMenuItem_physics_video">#31B9FA</color>
+    <color name="colorMenuItem_physics_exercise">#00CCFF</color>
+    <color name="colorMenuItem_physics_experimentation">#67CCFF</color>
+    <!--化学-->
+    <color name="colorMenuItem_chemistry_ebook">#00AFEA</color>
+    <color name="colorMenuItem_chemistry_video">#1AC6FF</color>
+    <color name="colorMenuItem_chemistry_exercise">#3DDDEF</color>
+    <color name="colorMenuItem_chemistry_experimentation">#66E7FF</color>
+    <!--生物-->
+    <color name="colorMenuItem_biology_ebook">#76BD2E</color>
+    <color name="colorMenuItem_biology_video">#89D132</color>
+    <color name="colorMenuItem_biology_exercise">#8EDC65</color>
+    <color name="colorMenuItem_biology_experimentation">#BFE465</color>
+    <!--地理-->
+    <color name="colorMenuItem_geography_ebook">#F2942A</color>
+    <color name="colorMenuItem_geography_video">#FFAF37</color>
+    <color name="colorMenuItem_geography_exercise">#FFCE68</color>
+    <!--历史-->
+    <color name="colorMenuItem_history_ebook">#D0A611</color>
+    <color name="colorMenuItem_history_video">#EDB037</color>
+    <color name="colorMenuItem_history_exercise">#F3D95C</color>
+    <!--政治-->
+    <color name="colorMenuItem_politics_ebook">#C6BA24</color>
+    <color name="colorMenuItem_politics_video">#E1C924</color>
+    <color name="colorMenuItem_politics_exercise">#ECDB45</color>
+
+
+</resources>
